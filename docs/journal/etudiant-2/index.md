@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Étudiant 2
+title: Mattheo Gaillard
 parent: Journal de bord
 has_children: true
 ---
