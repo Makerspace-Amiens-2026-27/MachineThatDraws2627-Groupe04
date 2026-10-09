@@ -1,27 +1,25 @@
 ---
 layout: default
-title: "2026-09-23 : Debut"
-parent: MENTION i
+title: "2026-09-25 : Organisation des tâches"
+parent: Amir_AZMANI
 grand_parent: Journal de bord
 ---
 
-# 2026-09-23 : découpe laser du boîtier
+# 2026-09-25 : organisation des tâches et premières idées (séance 2)
 
-{: .a_supprimer }
-> Exemple de séance : supprimez ce fichier quand vous avez créé vos propres séances.
-
-**Séance :** planifiée · **Durée :** 2 h
+**Séance :** planifiée · **Durée :** 3 h (9h–12h)
 
 ## Fait
 
-Découpe du boîtier en contreplaqué 3 mm. Premier assemblage à blanc.
+- Organisation et répartition des tâches de recherche pour optimiser le travail du groupe.
+- Premières idées intéressantes identifiées.
+- Piste retenue : la machine cartésienne.
 
 ## Pourquoi
 
-Les encoches étaient trop serrées : ajout d'une compensation de 0,1 mm dans le
-fichier de découpe (réglage mesuré sur une chute).
+Répartir la recherche permet d'avancer plus vite et d'éviter que plusieurs personnes fassent le même travail.
 
 ## Reste à faire
 
-- Redécouper la face avant avec la compensation.
-- Demander à l'équipe électronique l'emplacement définitif du connecteur USB.
+- Étudier le fonctionnement de la machine cartésienne.
+- Comprendre la motorisation des axes X et Y.
