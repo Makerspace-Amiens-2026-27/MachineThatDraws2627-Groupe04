@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MENTION Ivan
+title: Beaugrand Maxime
 parent: Journal de bord
 has_children: true
 ---
