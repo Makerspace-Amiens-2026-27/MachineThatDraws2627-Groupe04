@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Amir AZMANI
+title: Amir-AZMANI
 parent: Journal de bord
 has_children: true
 ---
