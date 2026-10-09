@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "AAAA-MM-JJ : sujet de la séance"
-parent: Prénom Nom
+parent: MENTION Ivan
 grand_parent: Journal de bord
 ---
 
@@ -18,11 +18,11 @@ Copiez-le dans votre dossier, renommez la copie avec la date (ex. 2026-09-23.md)
 
 ## Fait
 
-Ce que j'ai réalisé pendant la séance.
+Creation du groupe de proget.
 
 ## Pourquoi
 
-Les décisions prises et leurs raisons (mesures, essais, échanges avec l'équipe).
+Les décisions prises et leurs raisons (mesures, essais, échanges avec l'équipe). essaie. 
 
 ## Reste à faire
 
