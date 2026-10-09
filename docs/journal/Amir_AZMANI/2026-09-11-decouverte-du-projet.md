@@ -1,0 +1,25 @@
+---
+layout: default
+title: "2026-09-11 : Découverte du projet"
+parent: Amir_AZMANI
+grand_parent: Journal de bord
+---
+
+# 2026-09-11 : découverte du projet (séance 1)
+
+**Séance :** planifiée · **Durée :** 3 h (9h–12h)
+
+## Fait
+
+- Formation des groupes de travail.
+- Découverte du projet et de ses objectifs.
+- Première recherche sur la manière de réaliser le projet en 2 dimensions.
+
+## Pourquoi
+
+Il fallait comprendre le sujet et explorer les solutions possibles avant de choisir une direction.
+
+## Reste à faire
+
+- Répartir les tâches de recherche au sein du groupe.
+- Faire émerger plusieurs idées de solutions.
