@@ -2,6 +2,7 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=c++,kicad,jekyll,freecad,platformio,c,python,java,node
 
 ### Heavy files ###
+.vs/
 *.exe
 *.so 
 *.dll

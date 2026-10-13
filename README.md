@@ -8,7 +8,7 @@
 
 Une phrase qui explique ce que fait le projet et pour qui.
 
-- **Documentation :** [site du projet](https://makerspace-amiens.github.io/template-project/) (sources dans [`docs/`](docs/))
+- **Documentation :** [site du projet](https://makerspace-amiens-2026-27.github.io/MachineThatDraws2627-Groupe04/) (sources dans [`docs/`](docs/))
 - **Fichiers du projet :** [`project/`](project/) (CAO, électronique, code)
 
 ## Équipe
