@@ -1,11 +1,11 @@
 ---
 layout: default
-title: victor de castelnau
+title: victordecastelnau
 parent: Journal de bord
 has_children: true
 ---
 
-# victor de castelnau
+# victordecastelnau
 
 {: .a_modifier }
 > Remplacez « Étudiant 2 » par votre prénom et votre nom, **dans le titre de la page
