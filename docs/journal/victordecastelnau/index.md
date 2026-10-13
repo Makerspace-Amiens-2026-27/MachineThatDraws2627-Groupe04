@@ -1,13 +1,14 @@
 ---
 layout: default
-title: victordecastelnau
+title: Victor de Castelnau
 parent: Journal de bord
 has_children: true
 ---
 
-# victordecastelnau
+# Victor de Castelnau
 
-{: .a_modifier }
-> Remplacez « Étudiant 2 » par votre prénom et votre nom, **dans le titre de la page
-> (`title:`) et dans le `parent:` de chacune de vos séances** : c'est ce qui
-> relie vos séances à votre page.
+## Mes journaux
+
+- [2026-09-11 : introduction a git]({{ '/journal/victordecastelnau/2026-09-11.html' | relative_url }})
+- [2026-09-25 : sujet de la séance]({{ '/journal/victordecastelnau/2026-09-25.html' | relative_url }})
+- [2026-10-09 : sujet de la séance]({{ '/journal/victordecastelnau/2026-10-09.html' | relative_url }})
