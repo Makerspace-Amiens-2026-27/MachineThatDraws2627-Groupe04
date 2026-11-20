@@ -6,11 +6,6 @@ title: Études et choix techniques
 
 # Études et choix techniques
 
-{: .a_supprimer }
-> Le cahier des charges dit *quoi* faire, cette page explique *comment* et **pourquoi** :
-> d'abord ce qui existe déjà, puis les tests rapides, puis les choix retenus.
-> Si vous avez beaucoup de choix à documenter, faites une sous-page par choix
-> (ajoutez `has_children: true` ici et `parent: Études et choix techniques` dans les sous-pages).
 
 ## Recherche de l'existant
 
