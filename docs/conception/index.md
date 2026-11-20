@@ -31,7 +31,6 @@ graph LR
     Carte -->|commande| MX["Moteur X<br/>déplacement axe X"]
     Carte -->|commande| MY["Moteur Y<br/>déplacement axe Y"]
     Carte -->|commande| Servo["Servomoteur<br/>hauteur du stylo"]
-    Carte -->|affichage| Ecran["Écran OLED"]
 ```
 
 ### Fonctionnement général
