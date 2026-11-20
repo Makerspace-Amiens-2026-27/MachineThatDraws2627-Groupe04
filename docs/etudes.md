@@ -33,9 +33,7 @@ title: Études et choix techniques
 Exemple : test du capteur de couleur sous l'éclairage réel sur 30 déchets :
 27 correctement identifiés.
 
-## Choix techniques
-
-Cahier des Charges
+## Cahier des Charges
 Projet : Machine That Draws
 
 1. Présentation
@@ -103,7 +101,8 @@ Le stylo se lève et s'abaisse correctement.
 Les dessins sont reproductibles.
 Le système fonctionne de façon fiable. 
 
-Choix techniques retenus
+
+## Choix techniques retenus
 
 Architecture cartésienne
 -Axes X et Y indépendants.
