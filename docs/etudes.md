@@ -71,28 +71,113 @@ Nous reprenons les briques éprouvées (GRBL, levée du stylo par servo, pilotag
 Exemple : test du capteur de couleur sous l'éclairage réel sur 30 déchets :
 27 correctement identifiés.
 
-## Choix techniques
+## Cahier des Charges
+Projet : Machine That Draws
 
-{: .a_modifier }
-> Pour chaque choix difficile à remettre en cause (composant central, architecture,
-> procédé de fabrication), répondez aux quatre questions ci-dessous. Appuyez-vous
-> sur des arguments **techniques** : résultats de tests, performances, contraintes
-> du cahier des charges.
-> Voir [Tracer ses choix techniques](https://doc.makerspace-amiens.fr/workshops/methodologie-de-projet/concepts/tracer-choix-techniques/).
+1. Présentation
+La Machine That Draws est une machine automatisée capable de réaliser des dessins sur une feuille de papier à l'aide d'un stylo commandé par ordinateur. Son objectif est de reproduire des tracés de manière automatique et précise.
 
-Un diagramme **FAST** aide à passer d'une fonction du cahier des charges aux
-solutions possibles :
 
-```mermaid
-graph LR
-    A[FP1 : trier les déchets] --> B[Détecter le type de déchet]
-    B --> C1[Capteur de couleur]
-    B --> C2[Vision par caméra]
-    B --> C3[Tri par poids]
-    C1 --> D[Solution retenue]
-```
+2. Besoin
+Permettre à un utilisateur de réaliser automatiquement un dessin à partir d'instructions numériques.
 
-### Choix : titre du choix
+
+3. Fonctions principales
+-Dessiner
+Réaliser des tracés sur une feuille.
+Reproduire un dessin de manière fidèle.
+
+-Déplacer le stylo
+Déplacement sur les axes X et Y.
+Respect des coordonnées du dessin.
+
+-Lever et abaisser le stylo
+Commencer ou arrêter le tracé.
+Éviter les marques parasites.
+
+-Exécuter un programme
+Recevoir des commandes depuis un ordinateur.
+Réaliser automatiquement les mouvements demandés.
+
+
+4. Contraintes techniques
+Carte Arduino.
+Moteurs pas à pas.
+Servomoteur pour le porte-stylo.
+Structure mécanique conçue par l'équipe.
+Modélisation réalisée sous OnShape.
+
+
+5. Critères de performance
+Critère	Exigence
+Précision	Dessin fidèle au modèle
+Répétabilité	Même résultat à chaque exécution
+Fiabilité	Fonctionnement stable
+Sécurité	Aucun danger pour l'utilisateur
+Qualité du tracé	Traits propres et lisibles
+
+
+6. Livrables
+Fin du Semestre 1
+Prototype fonctionnel (POC)
+Présentation technique
+Modèle CAO OnShape
+Vidéo de démonstration
+Fin du Semestre 2
+Machine finale opérationnelle
+Rapport technique
+CAO complète
+Soutenance du projet
+Présentation publique de la machine
+
+
+7. Validation
+La machine sera considérée comme valide si :
+Elle dessine automatiquement.
+Elle suit correctement un trajet programmé.
+Le stylo se lève et s'abaisse correctement.
+Les dessins sont reproductibles.
+Le système fonctionne de façon fiable. 
+
+
+## Choix techniques retenus
+
+Architecture cartésienne
+-Axes X et Y indépendants.
+-Conception simple.
+-Bonne précision.
+-Maintenance facilitée.
+
+Moteurs pas à pas NEMA 17
+-Déplacement précis.
+-Fiabilité élevée.
+-Faciles à piloter.
+-Largement utilisés dans les CNC et imprimantes 3D.
+
+Courroies GT2 et poulies dentées
+-Déplacements fluides.
+-Bonne précision.
+-Mise en œuvre simple.
+-Technologie éprouvée.
+
+ESP32
+-Puissance de calcul élevée.
+-Wi‑Fi intégré.
+-Mémoire importante.
+-Possibilités d'évolution futures.
+
+Support de maintien de la feuille
+-Maintien efficace de la feuille.
+-Réduction des déplacements du papier.
+-Amélioration de la qualité du tracé.
+
+Levage du stylo par servomoteur
+-Faible encombrement.
+-Commande simple.
+-Mouvement précis.
+-Adapté au levage du stylo
+
+### Choix : Machine cartésienne
 
 **Contexte :** …
 
