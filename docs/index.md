@@ -16,20 +16,14 @@ permalink: /
 > Les guides pour prendre en main ce template sont sur le
 > [site de documentation du MakerSpace](https://doc.makerspace-amiens.fr/workshops/methodologie-de-projet/).
 
-# Nom du projet
+# Traceur cartésien : la machine à dessiner du Groupe 03
 
-{: .a_modifier }
-> Remplacez le titre ci-dessus et le texte ci-dessous par une présentation de votre projet.
+Notre projet est une **machine à dessiner automatique** de type cartésien : elle trace sur une feuille de papier une image vectorielle avec un vrai stylo, à partir d'un fichier de G-code. Elle est destinée aux étudiants et aux makers du MakerSpace qui veulent obtenir un dessin « fait main » (hachures, couleurs, textes) sans savoir bien dessiner, ainsi qu'aux enseignants pour une démonstration de mécanique, d'électronique et de programmation.
 
-Décrivez ici en quelques lignes l'objectif de votre projet. Quel est son but ?
-À qui est-il destiné ? Quel problème cherche-t-il à résoudre ?
+Elle répond à un problème simple : les traceurs du commerce sont chers et fermés, alors que notre machine est abordable, modifiable et équipée d'un arrêt d'urgence, de fins de course et d'un écran de contrôle.
 
 [Notre repo GitHub]({{ site.gh_edit_repository }}){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[Notre projet sur Onshape](https://cad.onshape.com/){: .btn .fs-5 .mb-4 .mb-md-0 }
-
-{: .a_modifier }
-> Remplacez le lien du bouton « Onshape » par le lien de partage de votre document.
-> Le bouton « repo GitHub » utilise l'adresse renseignée dans `docs/_config.yml`.
+[Notre projet sur Onshape](https://cad.onshape.com/documents/6fd3f4ae637bb1ff153c05d5/w/0a9df4f99a9ff77a84ce92ff/e/29787623243c0eac65221992){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ## Le projet en 3D
 
