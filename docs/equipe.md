@@ -19,8 +19,11 @@ title: Équipe et rôles
 
 | Membre | Formation | Compte GitHub |
 |---|---|---|
-| Prénom Nom | … | [@pseudo](https://github.com/pseudo) |
-| Prénom Nom | … | [@pseudo](https://github.com/pseudo) |
+| Amir Azmanir | Electronique , Coordination documentation | [@amirazmani10](https://github.com/amirazmani10) |
+| Maxime Beaugrand | Coordination planning , Logiciel | [@Maxime623](https://github.com/Maxime623) |
+| Mattheo Gaillard | Logiciel/Firmware , Electronique | [@gaillardmattheo-cpu](https://github.com/gaillardmattheo-cpu) |
+| Ivan Mention | Mecanique/CAO , Coordination planning | [@Archychaplain](https://github.com/Archychaplain) |
+| Victor De Castleneau | Coordination documentation, Mecanique/CAO| [@Victor2cast](https://github.com/Victor2cast) |
 
 ## Rôles
 
