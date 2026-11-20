@@ -9,8 +9,7 @@ title: Objectifs du projet
 
 ## Contexte
 
-{: .a_modifier }
-> D'où vient le projet ? Qui l'a demandé ? Dans quel cadre (cours, concours, commande) ?
+Ce projet est réalisé dans le cadre du module « Machine That Draws » proposé par le MakerSpace d'Amiens. L'objectif est d'appliquer les connaissances acquises en conception mécanique, électronique, programmation et fabrication numérique à travers la réalisation d'une machine capable de dessiner automatiquement. Le projet est évalué à travers plusieurs livrables ainsi qu'une présentation lors de la Journée des Projets
 
 
 ## Problème et public cible
