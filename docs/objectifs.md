@@ -6,10 +6,6 @@ title: Objectifs du projet
 
 # Objectifs du projet
 
-{: .a_supprimer }
-> Cette page pose le besoin **avant** toute solution technique : on y dit *quoi*
-> faire, pas *comment*. Répondez aux questions de chaque section, puis supprimez-les.
-> Voir [Définir son besoin et son cahier des charges](https://doc.makerspace-amiens.fr/workshops/methodologie-de-projet/concepts/definir-son-besoin/).
 
 ## Contexte
 
